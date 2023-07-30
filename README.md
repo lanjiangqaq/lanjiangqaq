@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @AndreJudaMarques
-- 👀 I’m interested in learn program languages...
-- 🌱 I’m currently learning Python ...
+- 👋 Hi, I’m lanjiang
+- 👀 I’m interested in learn Linux languages... 
+- 🌱 I’m currently learning C++ ... 
 - 💞️ I’m looking to collaborate on my progress as a student...
-- 📫 How to reach me start with my python git, then u can look anothers things...
 
-<!---
-AndreJudaMarques/AndreJudaMarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
